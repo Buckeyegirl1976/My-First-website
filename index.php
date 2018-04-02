@@ -19,7 +19,10 @@ $colors=[
 'red',
 'peach',
 'lightsalmon',
-'orange']; ?>
+'orange',
+'mediumblue',
+'mediumvioletred'
+]; ?>
 
 <!-- unordered list -->
 <!-- list-style-type: disc will give default bullets for unordered -->
